@@ -19,3 +19,6 @@ A Corpus of Quotes.
  - `wc -l author-quote.txt` to get no. of quotes
  - `cut -f1 author-quote.txt | sort | uniq | wc -l` to get no. of authors
  - `wc -w author-quote.txt` to get no. of words
+
+# Parser To Json
+```python3 parser.py```
